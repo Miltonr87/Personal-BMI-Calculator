@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<!--
+	Personal BMI Calculator by Milton Rodrigues
+	github.com | @Miltonr87
+-->
+<html lang="eng">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personal BMI Calculator</title>
+    <link rel="stylesheet" href="style.css">
+    
+</head>
+
+<body>
+    <div class="bg bg2 bg3"></div>
+    <header>
+        <h1> Personal BMI Calculator </h1>
+    </header>
+    <section class="zone blue">
+        <div>
+
+            <p> Birth(year):
+                <input type="number" name="birth" id="birth">
+            </p>
+
+            <p> Sex:
+                <input type="radio" name="radsex" id="mal" checked>
+                <label for="mal">Male</label>
+                <input type="radio" name="radsex" id="fem">
+                <label for="fem">Female</label>
+
+            </p>
+
+            <p> Height(m/cm):
+                <input type="number" name="height" id="height">
+            </p>
+
+            <p> Weight(kg): 
+                <input type="number" name="weight" id="weight">
+
+            </p> 
+
+            <p> <input type="button" value="Verify BMI" onclick="verify()" >
+
+            </p>
+        </div>
+
+        <div id="res2"> Fill all spaces above to know the result! </div>
+        <div id="res"> 
+            
+        </div>
+        <div id="res3"> </div>
+        
+    </section>
+    <footer>
+        <p>&copy; Milton Rodrigues</p>
+    </footer>
+    <script src="bmiCalculator.js"></script>
+</body>
+
+</html>
