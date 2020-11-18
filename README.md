@@ -4,7 +4,7 @@ Programs can automate many of our daily tasks. For example, if you are a persona
 
 The proposal, although simple, still seeks interactivity from a visual perspective. So, the idea from behind is to replicate the environment of mobile apps (UI and UX).
 
-The "Personal BMI Caculator" project is part of my first steps in JavaScript language from the scratch combined with new CSS style skills.
+The "Personal BMI Caculator" project is part of my first steps in JavaScript combined with CSS skills.
 
 --------
 
@@ -12,4 +12,4 @@ Programas podem automatizar muitas de nossas tarefas diárias. Por exemplo, se v
 
 A proposta, apesar de simples, busca ainda promover visualmente uma interatividade do que somente digitar números em uma calculadora qualquer. 
 
-O projeto de IMC faz parte dos meus primeiros passos na linguagem Javascript combinada com o recente avanço em estilização no CSS. A ideia aqui é replicar, ainda que visualmente simples, a imagem obtida dos aplicativos de dispositivos móveis (UI e UX). 
+O projeto de IMC faz parte dos meus primeiros passos no Javascript combinado com o CSS. A ideia aqui é replicar, ainda que visualmente simples, a imagem obtida dos aplicativos de dispositivos móveis (UI e UX). 
