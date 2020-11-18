@@ -13,3 +13,11 @@ Programas podem automatizar muitas de nossas tarefas diárias. Por exemplo, se v
 A proposta, apesar de simples, busca ainda promover visualmente uma interatividade do que somente digitar números em uma calculadora qualquer. 
 
 O projeto de IMC faz parte dos meus primeiros passos no Javascript combinado com o CSS. A ideia aqui é replicar, ainda que visualmente simples, a imagem obtida dos aplicativos de dispositivos móveis (UI e UX). 
+
+*Technologies used in Version 1.3:*
+
+- HTML5
+
+- CSS3 (Layout and Animation)
+
+- JavaScript (DOM / Conditionals / Data Manipulation with Numbers and Strings)
