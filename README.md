@@ -21,3 +21,5 @@ O projeto de IMC faz parte dos meus primeiros passos no Javascript combinado com
 - CSS3 (Layout and Animation)
 
 - JavaScript (DOM / Conditionals / Data Manipulation with Numbers and Strings)
+
+[CLICK HERE](https://miltonr87.github.io/Personal-BMI-Calculator/)
