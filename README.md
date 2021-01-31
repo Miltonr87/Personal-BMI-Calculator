@@ -1,7 +1,7 @@
 
 ### Personal BMI Calculator
 
-![Screen Shot](https://github.com/Miltonr87/beer-caps-game/blob/main/bmicalculator.png)
+![Screen Shot](https://github.com/Miltonr87/Personal-BMI-Calculator/blob/main/bmicalculator.png)
 
 [X] Desktop version
 
@@ -11,7 +11,7 @@ Made entirely in SPA style with Vanilla JS, the calculator uses as a standard me
 
 ### Getting Started
 
-- Clone the repo (HTTP Protocol): ```git clone https://github.com/Miltonr87/personal-bmi-calculator.git```
+- Clone the repo (HTTP Protocol): ```git clone https://github.com/Miltonr87/Personal-BMI-Calculator.git```
 
 ### Live Demo 
 
